@@ -1,0 +1,6 @@
+use std::io
+
+
+func main() {
+    io::print("Hello, World!\n")
+}
